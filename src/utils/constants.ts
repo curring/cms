@@ -1,0 +1,1 @@
+export const COOKIE_EXPIRATION: number = 365;
